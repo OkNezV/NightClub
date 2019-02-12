@@ -86,7 +86,7 @@ public class NightClub {
      */
     public static void main(String[] args) {
 
-        musicTime(2); // 15 = 5 минут
+        musicTime(15); // 15 = 5 минут
 
     }
 }
